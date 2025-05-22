@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Add mobile nav links
     mobileNav.innerHTML = `
-        <a href="#home">Home</a>
+        <a href="index.html">Home</a>
         <a href="#projects">Projects</a>
         <a href="about.html">About</a>
     `;
